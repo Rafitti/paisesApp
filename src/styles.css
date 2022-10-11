@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+@import '~animate.css/animate.min';
+
+.small-flag {
+    width: 50px;
+}
+.small-shield {
+    width: 100px;
+}
+.mr-1{
+    margin-right: 10px ;
+}
